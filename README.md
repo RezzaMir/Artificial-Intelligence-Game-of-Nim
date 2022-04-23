@@ -1,1 +1,1 @@
-# Game-of-Nim
+# Game of Nim
