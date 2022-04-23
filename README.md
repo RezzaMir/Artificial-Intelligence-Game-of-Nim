@@ -2,10 +2,10 @@
 
 Two players take turns removing objects from distinct heaps or rows
 
-Matches, cards, pebbles, …
+1) Matches, cards, pebbles, …
 
-On each turn, a player must remove at least one object from the same row
+2) On each turn, a player must remove at least one object from the same row
 
-Goal is to avoid taking the last object
+3) Goal is to avoid taking the last object
 
 
