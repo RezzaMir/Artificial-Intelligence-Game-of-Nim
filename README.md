@@ -35,7 +35,11 @@ MAX (0,0,2,2): False
 utility(s): if game has ended, how good is state s (for Max player)?
 MAX (0,0,0,0): +100
 
+Stage 1
 ![Picture1](https://user-images.githubusercontent.com/102126445/164950896-818eae4e-c3f3-4724-bb27-7414677d79ab.png)
+
+Gameplay
+![Picture3](https://user-images.githubusercontent.com/102126445/164951124-c29e1e47-097e-42c7-94ed-5ac1e4cc6baa.png)
 
 
 
