@@ -1,4 +1,4 @@
-<img alt="https://github.com/RezzaMir/Artificial-Intelligence-Game-of-Nim/blob/main/LICENSE" src="https://img.shields.io/bower/l/MI?color=0000">
+<img alt="https://github.com/RezzaMir/Artificial-Intelligence-Game-of-Nim/blob/main/LICENSE", src="https://img.shields.io/bower/l/MI?color=0000">
 # AI - Game of Nim
 Artificial Intelligence
 
