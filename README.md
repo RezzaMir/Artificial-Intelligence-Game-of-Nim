@@ -1,4 +1,3 @@
-image:https://img.shields.io/bower/l/mi?color=00[Bower]
 # AI - Game of Nim
 Artificial Intelligence
 
