@@ -1,4 +1,4 @@
-/bower/l/:Artificial-Intelligence-Game-of-Nim
+/bower/l/:MIT
 # AI - Game of Nim
 Artificial Intelligence
 
