@@ -1,4 +1,4 @@
-/bower/l/:MIT
+https://img.shields.io/bower/l/MI?style=flat-square
 # AI - Game of Nim
 Artificial Intelligence
 
