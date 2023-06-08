@@ -1,3 +1,4 @@
+/bower/l/:Artificial-Intelligence-Game-of-Nim
 # AI - Game of Nim
 Artificial Intelligence
 
