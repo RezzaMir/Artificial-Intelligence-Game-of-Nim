@@ -1,4 +1,4 @@
-<img alt="Bower" src="https://img.shields.io/bower/l/MI?color=00000000">
+<img alt="Bower" src="https://img.shields.io/bower/l/MIT?color=0000">
 # AI - Game of Nim
 Artificial Intelligence
 
